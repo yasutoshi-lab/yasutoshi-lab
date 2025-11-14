@@ -9,6 +9,7 @@ I'm passionate about
 - **IoT**
 - **kubernetes**
 - **System Development**
+- **Cybersecurity**
 
 ## 💡 About Me
 
