@@ -15,7 +15,7 @@ I'm passionate about:
 
 - Currently conducting research on large language model training/evaluation/safety and the application of AI Agents to business operations across various domains.
 - Interests: OS development using Rust, Development of agent tools leveraging LLMs
-- OS I use: Linux (Ubuntu, Kali) / Windows
+- Use OS: Linux (Ubuntu, Kali) / Windows
 - Currently learning: LLM Pre-training / Continued Pre-training / Fine-tuning / Reinforcement Learning / Alignment / Evaluation
 - Strengths: Full-stack capability spanning infrastructure (on-premises and cloud), system development, LLM fine-tuning, testing, penetration testing, deployment, and troubleshooting
 
