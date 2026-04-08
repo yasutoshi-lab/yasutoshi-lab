@@ -1,35 +1,33 @@
 # 👋 Hi, I'm Yasutoshi
 
 Welcome to my GitHub profile repository!
-I'm passionate about 
 
-- **AI model development**
-- **Data Science**
+I'm passionate about:
+
 - **Networks**
-- **IoT**
-- **kubernetes**
+- **AI Model Development**
+- **Data Science**
 - **System Development**
 - **Cybersecurity**
+- **IoT**
 
 ## 💡 About Me
 
-- 🎓 I'm currently studying machine learning and large language models.
-- 🧠 Interests: OS development using RUST, AI agent construction for business efficiency
-- 💻 OS I use: Linux(Ubuntu, Kali) / Windows
-- 🚀 Currently in progress: LLM CPT/RL/SFT/Alignment/Evaluation
+- Currently conducting research on large language model training/evaluation/safety and the application of AI Agents to business operations across various domains.
+- Interests: OS development using Rust, Development of agent tools leveraging LLMs
+- OS I use: Linux (Ubuntu, Kali) / Windows
+- Currently learning: LLM Pre-training / Continued Pre-training / Fine-tuning / Reinforcement Learning / Alignment / Evaluation
+- Strengths: Full-stack capability spanning infrastructure (on-premises and cloud), system development, LLM fine-tuning, testing, penetration testing, deployment, and troubleshooting
 
 ## 🛠️ Skills
 
 | Category | Skills |
 | - | - |
-| Network Design & Implementation | L2/L3 Design, Routing, VPN, Redundant Configuration |
-| Virtualization & Infrastructure | VirtualBox, Hyper-V, Docker, Kubernetes |
-| Cloud (AWS) | VPC, IAM, EC2, ALB |
-| Cloud (Azure) | VNet, Azure AD, VM, Azure Open AI Service |
-| IoT | Raspberry Pi Cluster (Construction/operation) |
-| Server Construction | Web, File, Database |
-| Programming Language | Python |
-| Generative AI | LLM Construction, RAG Construction, Fine Tuning, LLM Evaluation |
-| Troubleshooting | Network Investigation, Hardware Repair (PC/SV) |
+| Cloud | AWS, Azure, GCP, Sakura Cloud |
+| Server Construction | Nginx, Apache, PostgreSQL, MySQL, Zabbix |
+| Programming Languages | Python, JavaScript |
+| Frameworks | Django, Next.js, FastAPI, Gradio, LangChain/LangGraph |
+| Generative AI | LLM Scratch Development, RAG & AI Agent Construction |
+| Troubleshooting | Network Diagnostics, Hardware Repair (PC/Server) |
 
-thank you!  
+Thank you!
