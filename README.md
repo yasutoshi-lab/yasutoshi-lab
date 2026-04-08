@@ -30,6 +30,4 @@ I'm passionate about:
 | Generative AI | LLM Scratch Development, RAG & AI Agent Construction |
 | Troubleshooting | Network Diagnostics, Hardware Repair (PC/Server) |
 
-[![Yasutoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasutoshi-lab)](https://github.com/anuraghazra/github-readme-stats)
-
 Thank you!
